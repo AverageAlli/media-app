@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "year": 1971
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "year": 1975
+    },
+    {
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "year": 1976
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "year": 1987
+    },
+    {
+        "title": "Smoke on the Water",
+        "artist": "Deep Purple",
+        "year": 1972
+    }
+]
